@@ -1,4 +1,4 @@
-/* UVA 11332 Summing Digits */
+/* UVa 11332 Summing Digits */
 /* 2021/4/22 Wendy */
 
 #include <iostream>
