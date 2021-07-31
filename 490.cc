@@ -1,4 +1,4 @@
-/* UVA 490 Rotating Sentences */
+/* UVa 490 Rotating Sentences */
 /* 2021/4/22 Wendy */
 
 #include <iostream>
