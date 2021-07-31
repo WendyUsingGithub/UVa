@@ -1,4 +1,4 @@
-/* UVA 11461 Square Numbers*/
+/* UVa 11461 Square Numbers */
 /* 2021/4/28 Wendy */
 
 #include <iostream>
@@ -28,4 +28,6 @@ int main()
         if(a == 0 && b == 0) return 0;
         cout << sqrNum[b] - sqrNum[a - 1] << endl;
     }
+
+    return 0;
 }
