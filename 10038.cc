@@ -1,4 +1,4 @@
-/* UVA 10038 Jolly Jumpers */
+/* UVa 10038 Jolly Jumpers */
 /* 2021/4/23 Wendy */
 
 #include <iostream>
