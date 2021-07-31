@@ -1,4 +1,4 @@
-/* UVA 10008 What's Cryptanalysis? */
+/* UVa 10008 What's Cryptanalysis? */
 /* 2021/4/21 Wendy */
 
 #include <iostream>
@@ -39,12 +39,10 @@ int main()
     return 0;
 }
 
-/* 
-   若 a 的 priority 較大 -> return 1 (a 放右邊)
-   若 a 的 priority 較小 -> return 0 (a 放左邊)
-   qsort 的排序是由 priority 小 排到 priority 大 
-*/
-
+/* return 1 if priority of a is higher than b 
+ * return 0 if priority of a is lower than b 
+ * qsort return a sorted array from lower priority to higher priority 
+ */
 int compare(const void *a, const void *b)
 {
     struct data data_a = *(struct data *)a;
