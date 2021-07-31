@@ -1,4 +1,4 @@
-/* UVA 10056 What is the Probability ? */
+/* UVa 10056 What is the Probability? */
 /* 2021/4/24 Wendy */
 
 #include <iostream>
