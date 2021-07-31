@@ -1,4 +1,4 @@
-/* UVA 10783 Odd Sum */
+/* UVa 10783 Odd Sum */
 /* 2021/4/26 Wendy */
 
 #include <iostream>
@@ -18,4 +18,6 @@ int main()
         n = (b - a) / 2 + 1;
         cout << "Case " << i + 1 << ": " << (a + b) * n / 2 << endl;
     }
+
+    return 0;
 }
