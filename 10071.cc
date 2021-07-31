@@ -1,4 +1,4 @@
-/* UVA 10071 Back to High School Physics */
+/* UVa 10071 Back to High School Physics */
 /* 2021/4/29 Wendy */
 
 #include <iostream>
@@ -11,4 +11,6 @@ int main()
     while(cin >> v >> t) {
         cout << 2 * v * t << endl;
     }
+
+    return 0;
 }
