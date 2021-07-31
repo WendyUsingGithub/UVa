@@ -1,4 +1,4 @@
-/* UVA 10170 The Hotel with Infinite Rooms */
+/* UVa 10170 The Hotel with Infinite Rooms */
 /* 2021/4/25 Wendy */
 
 #include <iostream>
