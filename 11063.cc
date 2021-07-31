@@ -1,4 +1,4 @@
-/* UVA 11063 B2-Sequence */
+/* UVa 11063 B2-Sequence */
 /* 2021/4/29 Wendy */
 
 #include <iostream>
@@ -36,4 +36,6 @@ int main()
         if(flag == 0) cout << "Case #" << count << ": It is a B2-Sequence." << endl << endl;
         else cout << "Case #" << count << ": It is not a B2-Sequence." << endl << endl;
     }
+
+    return 0;
 }
