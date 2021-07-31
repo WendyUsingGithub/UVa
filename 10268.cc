@@ -1,4 +1,4 @@
-/* UVA 10268 498-bis */
+/* UVa 10268 498-bis */
 /* 2021/4/26 Wendy */
 
 #include <iostream>
