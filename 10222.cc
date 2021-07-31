@@ -1,4 +1,4 @@
-/* UVA 10222 Decode the Mad man */
+/* UVa 10222 Decode the Mad man */
 /* 2021/4/21 Wendy */
 
 #include <iostream>
