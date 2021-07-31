@@ -1,4 +1,4 @@
-/* UVA 11349 Symmetric Matrix*/
+/* UVa 11349 Symmetric Matrix */
 /* 2021/4/27 Wendy */
 
 #include <iostream>
@@ -40,5 +40,6 @@ int main()
         if(flag == 0) cout << "Test #" << k + 1 << ": " << "Symmetric." << endl;
         if(flag == 1) cout << "Test #" << k + 1 << ": " << "Non-symmetric." << endl;        
     }
+    
     return 0;
 }
