@@ -14,12 +14,12 @@ int mostSignificantDigit(int n, const vector<int> *const fib) ;
 int main()
 {
     vector<int> fib;
-    int *nFib;
+    int *nFib = NULL;
     int N = 0;
     int num = 0;
     int NUM = 0;
-    int msd;
-    int MSD;
+    int msd = 0;
+    int MSD = 0;
 
     cin >> N;
     buildFib(&fib);
