@@ -2,7 +2,6 @@
 /* 2021/8/1 Wendy */
 
 #include <iostream>
-#include <vector>
 using namespace std;
 
 int dec2bin(int dec);
