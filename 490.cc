@@ -2,7 +2,6 @@
 /* 2021/4/22 Wendy */
 
 #include <iostream>
-#include <string.h>
 #include <cstring>
 using namespace std;
 
