@@ -1,5 +1,5 @@
 /* UVa 10193 All You Need Is Love */
-/* 2021/8/4 Wendy */
+/* 2021/8/3 Wendy */
 
 #include <iostream>
 #include <cstring>
