@@ -1,5 +1,5 @@
 /* UVa 10190 Divide, But Not Quite Conquer! */
-/* 2021/8/4 Wendy */
+/* 2021/8/3 Wendy */
 
 #include <iostream>
 #include <vector>
