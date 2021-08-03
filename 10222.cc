@@ -3,7 +3,7 @@
 
 #include <iostream>
 #include <cctype>
-#include <string.h>
+#include <cstring>
 using namespace std;
 
 int main()
