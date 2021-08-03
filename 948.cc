@@ -3,7 +3,7 @@
 
 #include <iostream>
 #include <vector>
-#include <string.h>
+#include <cstring>
 using namespace std;
 
 #define MAX 100000000
