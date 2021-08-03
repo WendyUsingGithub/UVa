@@ -30,6 +30,8 @@ int main()
         if(love > 1) cout << "Pair #" << i + 1 << ": All you need is love!" << endl;
         else cout << "Pair #" << i + 1 << ": Love is not all you need!" << endl; 
     }
+
+    return 0;
 }
 
 int bin2dec(string str) {
