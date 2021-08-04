@@ -1,4 +1,4 @@
-/* UVa 10071 Back to High School Physics */
+/* ★☆☆ UVa 10071 Back to High School Physics */
 /* 2021/4/29 Wendy */
 
 #include <iostream>
