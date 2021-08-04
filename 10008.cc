@@ -1,4 +1,4 @@
-/* UVa 10008 What's Cryptanalysis? */
+/* ★☆☆ UVa 10008 What's Cryptanalysis? */
 /* 2021/4/21 Wendy */
 
 #include <iostream>
