@@ -1,4 +1,4 @@
-/* UVa 10050 Hartals */
+/* ★☆☆ UVa 10050 Hartals */
 /* 2021/8/2 Wendy */
 
 #include <iostream>
