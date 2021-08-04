@@ -1,4 +1,4 @@
-/* UVa 10019 Funny Encryption Method */
+/* ★☆☆ UVa 10019 Funny Encryption Method */
 /* 2021/8/1 Wendy */
 
 #include <iostream>
