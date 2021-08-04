@@ -1,4 +1,4 @@
-/* ⚝ UVa 272 TEX Quotes */
+/* ★☆☆ UVa 272 TEX Quotes */
 /* 2021/4/23 Wendy */
 
 #include <iostream>
