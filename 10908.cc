@@ -53,6 +53,7 @@ int main()
                 bottomRow = r + step;
                 rightColumn = c + step;
                 leftColumn = c - step;
+                
                 for(int i = -step; i <= step; i++) {
                     /* top row */
                     if(table[topRow][c + i] != rc) {
