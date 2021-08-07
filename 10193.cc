@@ -1,4 +1,4 @@
-/* UVa 10193 All You Need Is Love */
+/* ★☆☆ UVa 10193 All You Need Is Love */
 /* 2021/8/3 Wendy */
 
 #include <iostream>
