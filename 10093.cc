@@ -1,4 +1,4 @@
-/* UVa 10093 An Easy Problem */
+/* ★☆☆ UVa 10093 An Easy Problem */
 /* 2021/7/31 Wendy */
 
 #include <iostream>
