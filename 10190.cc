@@ -17,7 +17,8 @@ int main()
         a.clear();
         boring = 0;
 
-        /* 0 is also a non-negative integer */
+        /* n == 1 & m == 1 violate requirment a[1] > a[2] > a[3] > . . . > a[k] */
+        /* 0 is a valid input since 0 is a non-negative integer */
         if(n == 1 || m == 1 || n == 0 || m == 0) {
             cout << "Boring!" << endl;
         }
