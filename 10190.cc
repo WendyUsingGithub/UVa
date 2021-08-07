@@ -1,4 +1,4 @@
-/* UVa 10190 Divide, But Not Quite Conquer! */
+/* ★☆☆ UVa 10190 Divide, But Not Quite Conquer! */
 /* 2021/8/3 Wendy */
 
 #include <iostream>
