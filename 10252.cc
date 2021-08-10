@@ -1,4 +1,4 @@
-/* UVa 10252 Common Permutation */
+/* ★☆☆ UVa 10252 Common Permutation */
 /* 2021/4/22 Wendy */
 
 #include <iostream>
