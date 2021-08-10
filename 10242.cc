@@ -17,7 +17,7 @@ public:
     double y;
 };
 
-int equal(Point a, Point b) ;
+int equal(Point a, Point b);
 Vector makeVector(Point a, Point b);
 Vector addVector(Vector v1, Vector v2);
 Point makeFourthPoint(Vector v, Point p);
