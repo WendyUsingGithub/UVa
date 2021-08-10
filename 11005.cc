@@ -1,4 +1,4 @@
-/* UVa 11005 Cheapest Base */
+/* ★☆☆ UVa 11005 Cheapest Base */
 /* 2021/8/1 Wendy */
 
 #include <iostream>
