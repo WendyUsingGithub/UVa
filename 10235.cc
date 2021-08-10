@@ -1,4 +1,4 @@
-/* UVa 10235 Simply Emirp */
+/* ★☆☆ UVa 10235 Simply Emirp */
 /* 2021/8/3 Wendy */
 
 #define N 1000000
