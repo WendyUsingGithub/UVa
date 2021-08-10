@@ -1,4 +1,4 @@
-/* UVa 10931 Parity */
+/* ★☆☆ UVa 10931 Parity */
 /* 2021/8/1 Wendy */
 
 #include <iostream>
