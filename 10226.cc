@@ -24,8 +24,7 @@ int main()
     getchar();
     for(int i = 0; i < T; i++) {
         treeNum = 0;
-        while(1) {
-            cin.getline(trees + 31 * treeNum, 31);
+        while(cin.getline(trees + 31 * treeNum, 31)) {
             if(*(trees + 31 * treeNum) == 0) break;
             treeNum++;                             
         }
