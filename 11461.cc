@@ -1,8 +1,9 @@
-/* UVa 11461 Square Numbers */
+/* ★☆☆ UVa 11461 Square Numbers */
 /* 2021/4/28 Wendy */
 
 #include <iostream>
 #include <math.h>
+#include <cstring>
 using namespace std;
 
 int main()
