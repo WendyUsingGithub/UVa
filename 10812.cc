@@ -1,4 +1,4 @@
-/* UVa 10812 Beat the Spread! */
+/* ★☆☆ UVa 10812 Beat the Spread! */
 /* 2021/4/26 Wendy */
 
 #include <iostream>
