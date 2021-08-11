@@ -1,4 +1,4 @@
-/* UVa 11063 B2-Sequence */
+/* ★☆☆ UVa 11063 B2-Sequence */
 /* 2021/4/29 Wendy */
 
 #include <iostream>
