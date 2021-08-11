@@ -1,4 +1,4 @@
-/* UVa 11349 Symmetric Matrix */
+/* ★☆☆ UVa 11349 Symmetric Matrix */
 /* 2021/4/27 Wendy */
 
 #include <iostream>
