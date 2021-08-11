@@ -1,4 +1,4 @@
-/* UVa 12019 Doom's Day Algorithm */
+/* ★☆☆ UVa 12019 Doom's Day Algorithm */
 /* 2021/4/23 Wendy */
 
 #include <iostream>
