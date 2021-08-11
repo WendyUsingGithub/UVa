@@ -1,4 +1,4 @@
-/* UVa 10783 Odd Sum */
+/* ★☆☆ UVa 10783 Odd Sum */
 /* 2021/4/26 Wendy */
 
 #include <iostream>
