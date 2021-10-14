@@ -2,7 +2,7 @@
 /* 2021/8/12 Wendy */
 
 #include <iostream>
-#include <cstring>
+#include <string>
 using namespace std;
 
 int main()
