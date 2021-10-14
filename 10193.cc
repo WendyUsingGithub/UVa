@@ -2,7 +2,7 @@
 /* 2021/8/3 Wendy */
 
 #include <iostream>
-#include <cstring>
+#include <string>
 #include <math.h>
 using namespace std;
 
