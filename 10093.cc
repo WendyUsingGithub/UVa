@@ -2,7 +2,7 @@
 /* 2021/7/31 Wendy */
 
 #include <iostream>
-#include <cstring>
+#include <string>
 using namespace std;
 
 int isMultiple(string str, int base);
